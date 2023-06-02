@@ -1,0 +1,22 @@
+{
+  "name": "slot_machine_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "projet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eljefe213/Slot_machine_JS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eljefe213/Slot_machine_JS/issues"
+  },
+  "homepage": "https://github.com/eljefe213/Slot_machine_JS#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
